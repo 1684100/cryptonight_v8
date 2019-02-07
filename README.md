@@ -1,0 +1,1 @@
+# cryptonight_v8
